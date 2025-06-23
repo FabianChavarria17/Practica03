@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/springframework/Controller.java to edit this template
  */
-package controller;
+package com.Practica03.controller;
 
 import com.Practica03.dominio.Arbol;
 import com.Practica03.repositorio.ArbolRepositorio;
